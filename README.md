@@ -1,3 +1,6 @@
+このプロジェクトはオリジナルの`python-docs-hello-world`に対して変更を加え、任意のPythonバージョンを使った実行環境の構築に役立てるために作成したもの。
+オリジナルの作者に迷惑かけないでネ。
+
 # Python Flask app on Azure App Service Web
 
 This is a minimal sample app that demonstrates how to run a Python Flask application on Azure App Service Web.
